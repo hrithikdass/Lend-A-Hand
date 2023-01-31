@@ -14,7 +14,7 @@
 
 #### Register Page
 
-<img src="pictures/register.png" width="900">
+<img src="pictures/registration.png" width="900">
 
 
 #### Sign-up Page
