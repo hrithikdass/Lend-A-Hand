@@ -5,8 +5,8 @@
 #### Home Page
 
 <img src="pictures/homepage.png" width="900">
-<img src="pictures/homepage1.png" width="900">
 <img src="pictures/homepage2.png" width="900">
+<img src="pictures/homepage3.png" width="900">
 
 #### login Page
 
